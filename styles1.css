@@ -1,30 +1,30 @@
 @font-face {
   font-family: "GamingFont";
-  src: url("/fonts/Valorax.otf") format("opentype");
+  src: url("./fonts/Valorax.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "BW2GV";
-  src: url("/fonts/BW2GV.otf") format("opentype");
+  src: url("./fonts/BW2GV.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "outline";
-  src: url("/fonts/bb.ttf") format("truetype");
+  src: url("./fonts/bb.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "pdgb";
-  src: url("/fonts/PDGB.ttf") format("truetype");
+  src: url("./fonts/PDGB.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "bb";
-  src: url("/fonts/Outline.ttf") format("truetype");
+  src: url("./fonts/Outline.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
